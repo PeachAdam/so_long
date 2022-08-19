@@ -1,4 +1,4 @@
-# 42-gnl
+# 42-So_long
 
 Score: 100/100
 
